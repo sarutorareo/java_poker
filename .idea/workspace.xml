@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08f02e64-7397-410a-ac65-00e3c3b25b6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPoker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pecapoker/playingcards/PcConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pecapoker/playingcards/PcConst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pecapoker/texasholdem/HoldemDealerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pecapoker/texasholdem/HoldemDealerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pecapoker/texasholdem/HoldemPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pecapoker/texasholdem/HoldemPlayerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="08f02e64-7397-410a-ac65-00e3c3b25b6c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +24,8 @@
       <file leaf-file-name="HoldemDealerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/pecapoker/texasholdem/HoldemDealerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="81" column="27" lean-forward="true" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
+            <state relative-caret-position="204">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -375,21 +365,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HoldemPlayerTest_testRaise - 2018.06.24 at 15h 02m 56s.xml">
-      <configuration name="HoldemPlayerTest.testRaise" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HoldemPlayerTest_testRaise - 2018.06.24 at 15h 07m 54s.xml">
-      <configuration name="HoldemPlayerTest.testRaise" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HoldemPlayerTest_testRaise - 2018.06.24 at 15h 14m 32s.xml">
-      <configuration name="HoldemPlayerTest.testRaise" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HoldemPlayerTest_testRaise - 2018.06.24 at 15h 15m 49s.xml">
-      <configuration name="HoldemPlayerTest.testRaise" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_JavaPoker - 2018.06.24 at 15h 15m 57s.xml">
-      <configuration name="All in JavaPoker" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HoldemDealerTest_testGetMaxFiveCard - 2018.06.24 at 15h 20m 27s.xml">
       <configuration name="HoldemDealerTest.testGetMaxFiveCard" configurationId="JUnit" />
     </history-entry>
@@ -405,6 +380,21 @@
     <history-entry file="All_in_JavaPoker - 2018.06.24 at 15h 24m 33s.xml">
       <configuration name="All in JavaPoker" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HoldemDealerTest_testDecideWinner - 2018.06.24 at 15h 27m 50s.xml">
+      <configuration name="HoldemDealerTest.testDecideWinner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HoldemDealerTest_testDecideWinner - 2018.06.24 at 15h 29m 48s.xml">
+      <configuration name="HoldemDealerTest.testDecideWinner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HoldemDealerTest - 2018.06.24 at 15h 29m 58s.xml">
+      <configuration name="HoldemDealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HoldemDealerTest - 2018.06.24 at 15h 31m 21s.xml">
+      <configuration name="HoldemDealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_JavaPoker - 2018.06.24 at 15h 31m 30s.xml">
+      <configuration name="All in JavaPoker" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="3" width="1309" height="729" extended-state="0" />
@@ -416,10 +406,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5003867" side_tool="true" visible="true" weight="0.32899022" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996133" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -700,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pecapoker/texasholdem/HoldemDealerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="81" column="27" lean-forward="true" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
+        <state relative-caret-position="204">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
