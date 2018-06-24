@@ -99,6 +99,7 @@ public class HoldemPlayerTest {
 		//
 		// 所持金額以上をかけたらException
 		//
+		//todo : Exceptionのテスト
         exception.expect(RoundRulesException.class);
         exception.expectMessage("this.chip < diffAmount");
         ac = p.doRaise(rar, 1100);

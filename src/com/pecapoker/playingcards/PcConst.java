@@ -12,6 +12,7 @@ public class PcConst {
 		case '♥':
 			return Suits.HEART;
 		case 'D':
+		case '♦':
 		case '◆':
 			return Suits.DIA;
 		case 'C':

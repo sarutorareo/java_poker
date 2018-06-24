@@ -38,7 +38,7 @@ public class HoldemDealerTest extends TestCase {
 		board.push(new Card(Suits.SPADE, 3));
 		board.push(new Card(Suits.SPADE, 4));
 		board.push(new Card(Suits.SPADE, 5));
-		board.push(new Card(Suits.SPADE, 6));
+		board.push(new Card(Suits.HEART, 13));
 		return board;
 	}
 
@@ -699,12 +699,12 @@ public class HoldemDealerTest extends TestCase {
 		FiveCard fv = d.getMaxFiveCard(cs);
 		assertEquals(true, fv.getYaku() instanceof YkTwoPair);
 
-		cs = new CardSet("♠4♠J♥A♠8♠Q♥5♠A");
+		cs = new CardSet("♠4♠J♥A♠8♦Q♥5♠A");
 		fv = d.getMaxFiveCard(cs);
 		assertEquals(true, fv.getYaku() instanceof YkPair);
 		assertEquals(1, ((YkPair)fv.getYaku()).getPairRank());
 
-		cs = new CardSet("♠4♠J♥A♠8♠Q♠T♥T");
+		cs = new CardSet("♥4♠J♥A♠8♠Q♠T♥T");
 		fv = d.getMaxFiveCard(cs);
 		assertEquals(true, fv.getYaku() instanceof YkPair);
 		assertEquals(10, ((YkPair)fv.getYaku()).getPairRank());
