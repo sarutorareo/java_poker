@@ -21,7 +21,7 @@ public class HoldemDealerTest extends TestCase {
 	TestHoldemPlayer p2;
 	TestHoldemPlayer p3;
 
-	public void _initPersons( )
+	public void _initPersons()
 	{
 		this.d = new HoldemDealer();
 		this.p1 = new TestHoldemPlayer(1, "jirou");
